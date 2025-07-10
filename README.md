@@ -76,6 +76,9 @@ sağlamayı hedeflemektedir.
 - **AsyncStorage** - Yerel veri depolama
 
 ## 📱 Ekran Görüntüleri
+<img width="367" height="694" alt="foto1" src="https://github.com/user-attachments/assets/30c8518c-1445-4742-b03c-290294b90aac" />
+
+
 
 ### Ana Özellikler
 - **Ana Sayfa**: Kişiselleştirilmiş dashboard
