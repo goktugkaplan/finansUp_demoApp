@@ -77,8 +77,8 @@ sağlamayı hedeflemektedir.
 
 ## 📱 Ekran Görüntüleri
 <img width="367" height="694" alt="foto1" src="https://github.com/user-attachments/assets/30c8518c-1445-4742-b03c-290294b90aac" />
-
-
+<img width="368" height="648" alt="foto2" src="https://github.com/user-attachments/assets/eb95f733-1494-4d1f-9d07-2cf494bfa50d" />
+<img width="367" height="653" alt="foto3" src="https://github.com/user-attachments/assets/c1521e5e-549d-4637-8d88-7db918d72665" />
 
 ### Ana Özellikler
 - **Ana Sayfa**: Kişiselleştirilmiş dashboard
