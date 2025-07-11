@@ -221,10 +221,6 @@ npm run type-check
 - AsyncStorage ile yerel veri şifreleme
 - API key'lerin güvenli saklanması
 
-### Veri Koruma
-- GDPR uyumluluğu
-- Kullanıcı gizlilik ayarları
-- Veri silme seçenekleri
 
 ## 🚀 Dağıtım
 
@@ -239,42 +235,9 @@ eas build --platform android
 eas build --platform ios
 ```
 
-### App Store Dağıtımı
-1. App Store Connect'te uygulama oluşturun
-2. Gerekli sertifikaları yükleyin
-3. Build'i yükleyin ve inceleme sürecini başlatın
-
-## 🤝 Katkıda Bulunma
-
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
-## 👥 Geliştirici Ekibi
-
-- **Proje Yöneticisi**: [İsim]
-- **Frontend Geliştirici**: [İsim]
-- **Backend Geliştirici**: [İsim]
-- **UI/UX Tasarımcı**: [İsim]
-
 ## 📞 İletişim
 
-- **Email**: info@finansup.com
-- **Website**: https://finansup.com
-- **Twitter**: [@finansup](https://twitter.com/finansup)
-
-## 🙏 Teşekkürler
-
-- React Native topluluğu
-- Expo ekibi
-- Firebase ekibi
-- Tüm katkıda bulunanlara
+- **Email**: agoktugkaplan@gmail.com
 
 ---
 
